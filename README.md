@@ -1,6 +1,6 @@
 # Politic
 
-This a simple HTML template page for a Jewish politician for the election campaign.
+This a simple responsive HTML template page for a Jewish politician for the election campaign.
 
 ## Created using
 
