@@ -15,4 +15,4 @@ CSS - compiled with [gulp-autoprefixer](https://github.com/sindresorhus/gulp-aut
 - Yaroslav Levchenko
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the [LICENSE.md](License.md) file for details
