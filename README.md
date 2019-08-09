@@ -2,7 +2,7 @@
 
 This a simple HTML template page for a Jewish politician for the election campaign.
 
-## Built With
+## Created using
 
 - HTML5
 - CSS3
