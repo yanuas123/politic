@@ -2,6 +2,8 @@
 
 This a simple responsive HTML template page for a Jewish politician for the election campaign.
 
+> GitHub page: [Politic](https://yanuas123.github.io/politic/)
+
 ## Created using
 
 - HTML5
